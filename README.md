@@ -1,4 +1,4 @@
-![Image](img/arima.jpg=250x250)
+![Image](img/arima.jpg =250x250)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ivanakaobiwan/ivanakaobiwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
