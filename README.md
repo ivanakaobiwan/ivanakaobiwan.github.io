@@ -1,7 +1,9 @@
 ## NodeJS tips
 
 [NodeJS](https://nodejs.org/en/) - download and install NodeJS
+
 [Node Package manager](https://www.npmjs.com/)
+
 [Nodemon](https://nodemon.io/) - demon for automate restart of server process if changes detected
 ```markdown
 npm install -g nodemon
