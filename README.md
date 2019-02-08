@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## NodeJS tips
+
+[NodeJS](https://nodejs.org/en/) - download and install NodeJS
+[Node Package manager](https://www.npmjs.com/)
+[Nodemon](https://nodemon.io/) - demon for automate restart of server process if changes detected
+```markdown
+npm install -g nodemon
+'''
 
 You can use the [editor on GitHub](https://github.com/ivanakaobiwan/ivanakaobiwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
