@@ -2,7 +2,10 @@
 
 [NodeJS](https://nodejs.org/en/) - download and install NodeJS
 
-[Node Package manager](https://www.npmjs.com/)
+[NPM Node Package manager](https://www.npmjs.com/) initialize directory first
+```markdown
+npm init 
+```
 
 [Nodemon](https://nodemon.io/) - demon for automate restart of server process if changes detected
 ```markdown
