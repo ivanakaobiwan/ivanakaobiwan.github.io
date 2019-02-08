@@ -2,7 +2,7 @@
 
 [NodeJS](https://nodejs.org/en/) - download and install NodeJS
 
-[NPM Node Package manager](https://www.npmjs.com/) initialize directory first
+[NPM Node Package manager](https://www.npmjs.com/) - initialize directory first
 ```markdown
 npm init 
 ```
