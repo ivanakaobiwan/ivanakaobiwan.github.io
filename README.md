@@ -15,6 +15,7 @@ npm install -g nodemon
 ##Git tips
 
 `git remote add origin <URL>` - adding the remote repo called 'origin'
+
 `git push -u origin master` - push to remote 'origin' repo master brunch (-u links up remote and local repo)
 
 ### Markdown
