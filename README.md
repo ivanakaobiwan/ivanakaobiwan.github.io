@@ -4,12 +4,12 @@
 
 [NPM Node Package manager](https://www.npmjs.com/) - initialize directory first
 ```markdown
-npm init 
+`npm init`
 ```
 
 [Nodemon](https://nodemon.io/) - demon for automate restart of server process if changes detected
 ```markdown
-npm install -g nodemon
+`npm install -g nodemon`
 ```
 
 ##Git tips
