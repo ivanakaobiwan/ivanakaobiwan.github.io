@@ -12,9 +12,10 @@ npm init
 npm install -g nodemon
 ```
 
-You can use the [editor on GitHub](https://github.com/ivanakaobiwan/ivanakaobiwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Git tips
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`git remote add origin <URL>` - adding the remote repo called 'origin'
+`git push -u origin master` - push to remote 'origin' repo master brunch (-u links up remote and local repo)
 
 ### Markdown
 
